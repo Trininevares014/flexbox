@@ -17,7 +17,14 @@ html{
     background: rgb(82, 121, 119);
     padding: 20px;
     display: flex;
+    justify-content: space-between;
+    
 }
+
+
+
+
+
 
 .flex-cont{
     padding-top: 5%;
